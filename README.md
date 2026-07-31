@@ -55,5 +55,6 @@ Track how many problems solved per pattern — reveals what to grind next.
 |---------|------------------|
 | Hashing | 1 |
 
+
 ---
 *The heatmap is a forcing function, not the goal 🔥 — this table is the REAL progress 💯*
