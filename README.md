@@ -8,6 +8,7 @@ Goal: pattern mastery, not just a green heatmap.
 | Date | Pattern | Striver Problems | LeetCode Problems | Status |
 |------|---------|-------------------|---------------------|--------|
 | 31-07-2026 | Hashing | Longest Consecutive Sequence in an Array | #448 | ✅ |
+| 01-08-2026 | Hashing | First Non-Repeating Character | #387 | ✅ |
 
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
 
@@ -53,7 +54,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 
 | Pattern | Problems Solved |
 |---------|------------------|
-| Hashing | 1 |
+| Hashing | 4 |
 
 
 ---
