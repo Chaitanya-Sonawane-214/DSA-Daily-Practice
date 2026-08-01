@@ -7,7 +7,7 @@ Goal: pattern mastery, not just a green heatmap.
 
 | Date | Pattern | Striver Problems | LeetCode Problems | Status |
 |------|---------|-------------------|---------------------|--------|
-| 31-07-2026 | Hashing | Longest Consecutive Sequence in an Array | $448 | ✅ |
+| 31-07-2026 | Hashing | Longest Consecutive Sequence in an Array | #448 | ✅ |
 
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
 
