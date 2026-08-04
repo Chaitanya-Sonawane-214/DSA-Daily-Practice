@@ -11,6 +11,7 @@ Goal: pattern mastery, not just a green heatmap.
 | 01-08-2026 | Hashing | First Non-Repeating Character | #387 | ✅ |
 | 02-08-2026 | Hashing | Longest subarray with sum K | #560 | ✅ |
 | 03-08-2026 | Hashing | Count subarrays with given sum | ⏳ | ✅ |
+| 04-08-2026 | Hashing | ❌ | ❌ | ❌ |
 
 
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
