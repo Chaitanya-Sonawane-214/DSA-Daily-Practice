@@ -10,7 +10,8 @@ Goal: pattern mastery, not just a green heatmap.
 | 31-07-2026 | Hashing | Longest Consecutive Sequence in an Array | #448 | ✅ |
 | 01-08-2026 | Hashing | First Non-Repeating Character | #387 | ✅ |
 | 02-08-2026 | Hashing | Longest subarray with sum K | #560 | ✅ |
-| 03-08-2026 | Hashing | Count subarrays with given sum | ⏳ | ⏳ |
+| 03-08-2026 | Hashing | Count subarrays with given sum | ⏳ | ✅ |
+
 
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
 
