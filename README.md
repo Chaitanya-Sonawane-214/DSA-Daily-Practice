@@ -12,6 +12,7 @@ Goal: pattern mastery, not just a green heatmap.
 | 02-08-2026 | Hashing | Longest subarray with sum K | #560 | ✅ |
 | 03-08-2026 | Hashing | Count subarrays with given sum | ⏳ | ✅ |
 | 04-08-2026 | Hashing | ❌ | ❌ | ❌ |
+| 05-08-2026 | Binary Search | Search X in sorted array | ⏳ | ⏳ |
 
 
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
@@ -26,6 +27,7 @@ Organized by **pattern**, not by date — makes weak areas obvious and revision 
 dsa-daily-practice/
 ├── README.md
 ├── 02-Hashing/
+├── 03-Binary Search/
 
 ```
 
@@ -59,6 +61,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 | Pattern | Problems Solved |
 |---------|------------------|
 | Hashing | 7 |
+| Binary Search | 1 |
 
 
 ---
