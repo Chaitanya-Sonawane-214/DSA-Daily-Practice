@@ -12,7 +12,7 @@ Goal: pattern mastery, not just a green heatmap.
 | 02-08-2026 | Hashing | Longest subarray with sum K | #560 | ✅ |
 | 03-08-2026 | Hashing | Count subarrays with given sum | ⏳ | ✅ |
 | 04-08-2026 | Hashing | ❌ | ❌ | ❌ |
-| 05-08-2026 | Binary Search | Search X in sorted array | ⏳ | ⏳ |
+| 05-08-2026 | Binary Search | Search X in sorted array | 35 | ✅ |
 
 
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
@@ -61,7 +61,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 | Pattern | Problems Solved |
 |---------|------------------|
 | Hashing | 7 |
-| Binary Search | 1 |
+| Binary Search | 2 |
 
 
 ---
