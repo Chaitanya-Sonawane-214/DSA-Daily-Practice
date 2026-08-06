@@ -13,6 +13,7 @@ Goal: pattern mastery, not just a green heatmap.
 | 03-08-2026 | Hashing | Count subarrays with given sum | ⏳ | ✅ |
 | 04-08-2026 | Hashing | ❌ | ❌ | ❌ |
 | 05-08-2026 | Binary Search | Search X in sorted array | #35, #704 | ✅ |
+| 06-08-2026 | Binary Search | Lower Bound | ⏳ | ⏳ |
 
 
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
@@ -50,7 +51,7 @@ Each problem gets its own file inside its pattern folder:
 4. Commit with a clear message:
    ```
    git add .
-   git commit -m "feat: Hashing - LC448 Find All Numbers Disappeared in an Array"
+   git commit -m "Striver/Leetcode - Problem_name/#Code "
    git push
    ```
 
@@ -61,7 +62,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 | Pattern | Problems Solved |
 |---------|------------------|
 | Hashing | 7 |
-| Binary Search | 3 |
+| Binary Search | 4 |
 
 
 ---
