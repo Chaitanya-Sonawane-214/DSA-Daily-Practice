@@ -15,6 +15,7 @@ Goal: pattern mastery, not just a green heatmap.
 | 05-08-2026 | Binary Search | Search X in sorted array | #35, #704 | ✅ |
 | 06-08-2026 | Binary Search | Lower Bound | ⏳ | ⏳ |
 | 07-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 08-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 
 
 
