@@ -17,6 +17,7 @@ Goal: pattern mastery, not just a green heatmap.
 | 07-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 | 08-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 | 09-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 10-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 
 
 
