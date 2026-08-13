@@ -14,6 +14,12 @@ Goal: pattern mastery, not just a green heatmap.
 | 04-08-2026 | Hashing | ❌ | ❌ | ❌ |
 | 05-08-2026 | Binary Search | Search X in sorted array | #35, #704 | ✅ |
 | 06-08-2026 | Binary Search | Lower Bound | ⏳ | ⏳ |
+| 07-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 08-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 09-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 10-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 11-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+
 
 
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
