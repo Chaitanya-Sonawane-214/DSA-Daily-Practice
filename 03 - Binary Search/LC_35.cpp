@@ -31,7 +31,6 @@ public:
     int searchInsert(vector<int>& nums, int target) 
     {
         int num1 = BinarySearch(nums, target);
-
         return num1;
     }
 };
@@ -44,6 +43,7 @@ int main()
     
     int result = sol.searchInsert(nums, target);
     cout << result << endl;
+    
     
     return 0;
 }
