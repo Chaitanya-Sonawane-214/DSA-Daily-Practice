@@ -24,6 +24,7 @@ Goal: pattern mastery, not just a green heatmap.
 | 14-08-2026 | Binary Search | Search insert position | #35 | ✅ |
 | 14-08-2026 | Binary Search | Floor and Ceil in Sorted Array | ⏳ | ⏳ |
 | 15-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 16-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 
 
 
