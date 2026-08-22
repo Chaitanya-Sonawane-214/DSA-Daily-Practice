@@ -26,6 +26,8 @@ Goal: pattern mastery, not just a green heatmap.
 | 15-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 | 16-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 
+c1dadd5 (Striver - First and last occurrence)
+
 
 
 
@@ -75,7 +77,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 | Pattern | Problems Solved |
 |---------|------------------|
 | Hashing | 7 |
-| Binary Search | 4 |
+| Binary Search | 9 |
 
 
 ---
