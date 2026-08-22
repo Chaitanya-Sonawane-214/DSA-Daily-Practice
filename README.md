@@ -36,10 +36,12 @@ Goal: pattern mastery, not just a green heatmap.
 | Date       | Pattern        | Striver Problems              | Status |
 |------------|----------------|-------------------------------|--------|
 | 22-08-2026 | Binary Search  | First and last occurrence      | ✅     |
+| 22-08-2026 | Binary Search  | Search in rotated sorted array-I      | ✅     |
 
 
 
 
+>
 > Update this table every day you solve problems. Even 1 problem = update the row + commit.
 
 **Status legend:** ✅ Done &nbsp;|&nbsp; ⏳ In Progress &nbsp;|&nbsp; ❌ Skipped (be honest, don't delete the row)
@@ -86,7 +88,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 | Pattern | Problems Solved |
 |---------|------------------|
 | Hashing | 7 |
-| Binary Search | 10 |
+| Binary Search | 11 |
 
 
 ---
