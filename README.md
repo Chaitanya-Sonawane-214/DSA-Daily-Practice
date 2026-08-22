@@ -1,6 +1,6 @@
 # DSA Daily Practice 🔥
 
-Daily consistency tracker — 3 Striver problems + 3 LeetCode problems (same pattern) every day.
+Daily consistency tracker — 1-2 Striver problems
 Goal: pattern mastery, not just a green heatmap.
 
 ## 📊 Progress Tracker
@@ -27,6 +27,17 @@ Goal: pattern mastery, not just a green heatmap.
 | 16-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 
 c1dadd5 (Striver - First and last occurrence)
+| 15-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 16-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 17-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 18-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 19-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 20-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+| 21-08-2026 | Binary Search | ❌ | ❌ | ❌ |
+
+| Date | Pattern | Striver Problems | Status |
+| 22-08-2026 | Binary Search | First and last occurrence | ✅ |
+ 2f09926 (Striver - Update README.md)
 
 
 
@@ -77,7 +88,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 | Pattern | Problems Solved |
 |---------|------------------|
 | Hashing | 7 |
-| Binary Search | 9 |
+| Binary Search | 10 |
 
 
 ---
