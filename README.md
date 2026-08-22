@@ -25,8 +25,6 @@ Goal: pattern mastery, not just a green heatmap.
 | 14-08-2026 | Binary Search | Floor and Ceil in Sorted Array | ⏳ | ⏳ |
 | 15-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 | 16-08-2026 | Binary Search | ❌ | ❌ | ❌ |
-
-c1dadd5 (Striver - First and last occurrence)
 | 15-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 | 16-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 | 17-08-2026 | Binary Search | ❌ | ❌ | ❌ |
@@ -35,9 +33,9 @@ c1dadd5 (Striver - First and last occurrence)
 | 20-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 | 21-08-2026 | Binary Search | ❌ | ❌ | ❌ |
 
-| Date | Pattern | Striver Problems | Status |
-| 22-08-2026 | Binary Search | First and last occurrence | ✅ |
- 2f09926 (Striver - Update README.md)
+| Date       | Pattern        | Striver Problems              | Status |
+|------------|----------------|-------------------------------|--------|
+| 22-08-2026 | Binary Search  | First and last occurrence      | ✅     |
 
 
 
