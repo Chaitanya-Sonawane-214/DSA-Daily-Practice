@@ -37,6 +37,23 @@ Goal: pattern mastery, not just a green heatmap.
 |------------|----------------|-------------------------------|--------|
 | 22-08-2026 | Binary Search  | First and last occurrence      | ✅     |
 | 22-08-2026 | Binary Search  | Search in rotated sorted array-I      | ✅     |
+| 23-08-2026 | Binary Search  | ❌      | ❌     |
+| 24-08-2026 | Binary Search  | ❌      | ❌     |
+| 25-08-2026 | Binary Search  | ❌      | ❌     |
+| 26-08-2026 | Binary Search  | ❌      | ❌     |
+| 27-08-2026 | Binary Search  | ❌      | ❌     |
+| 28-08-2026 | Binary Search  | ❌      | ❌     |
+| 29-08-2026 | Binary Search  | ❌      | ❌     |
+| 30-08-2026 | Binary Search  | ❌      | ❌     |
+| 31-08-2026 | Binary Search  | ❌      | ❌     |
+| 01-09-2026 | Binary Search  | ❌      | ❌     |
+| 02-09-2026 | Binary Search  | ❌      | ❌     |
+| 03-09-2026 | Binary Search  | ❌      | ❌     |
+| 04-09-2026 | Binary Search  | ❌      | ❌     |
+| 05-09-2026 | Binary Search  | ❌      | ❌     |
+| 06-09-2026 | Binary Search  | ❌      | ❌     |
+| 07-09-2026 | Binary Search  | Find minimum in Rotated Sorted Array      | ✅     |
+
 
 
 
@@ -88,7 +105,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 | Pattern | Problems Solved |
 |---------|------------------|
 | Hashing | 7 |
-| Binary Search | 11 |
+| Binary Search | 12 |
 
 
 ---
