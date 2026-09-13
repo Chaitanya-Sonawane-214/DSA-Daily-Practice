@@ -56,7 +56,9 @@ Goal: pattern mastery, not just a green heatmap.
 | 08-09-2026 | Binary Search  | Find out how many times the array is rotated      | ✅     |
 | 09-09-2026 | Binary Search  | ❌      | ❌     |
 | 10-09-2026 | Binary Search  | Single element in sorted array      | ✅     |
-
+| 11-09-2026 | Binary Search  | ❌      | ❌     |
+| 12-09-2026 | Binary Search  | ❌      | ❌     |
+| 13-09-2026 | Binary Search  | Find square root of a number      | ✅     |
 
 
 
@@ -109,7 +111,7 @@ Track how many problems solved per pattern — reveals what to grind next.
 | Pattern | Problems Solved |
 |---------|------------------|
 | Hashing | 7 |
-| Binary Search | 14 |
+| Binary Search | 15 |
 
 
 ---
